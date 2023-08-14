@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otaviomorais007&label=Profile%20views&color=0e75b6&style=flat-square" alt="otaviomorais007" /> </p>
 
-- 🌱 I’m currently learning **React and Angular**
+- 🌱 I’m currently learning **React and Python**
 
 - 📫 How to reach me **otaviomorais001@hotmail.com**
 
